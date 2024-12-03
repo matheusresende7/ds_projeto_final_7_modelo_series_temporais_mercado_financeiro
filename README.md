@@ -41,7 +41,7 @@ O objetivo desse projeto de Ciência de Dados é, a partir dos dados históricos
 - `to_do.txt`: Arquivo para anotar as tarefas pendentes do projeto
 
 
-## Resultados - EDA
+## Resultados - Simulações
 ![EDA_03](images/output_resultados_eda_03.png)
 
 ![EDA_04](images/output_resultados_eda_04.png)
