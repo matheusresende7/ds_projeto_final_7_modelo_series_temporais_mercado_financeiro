@@ -9,10 +9,6 @@ DATASET_CLUSTERED = '../data/dataset_clustered.csv'
 DATASET_DEPLOY_CLASSIFICATION = '../data/dataset_deploy_classification.csv'
 DATASET_DEPLOYED_CLASSIFICATION = '../data/dataset_deployed_classification.csv'
 
-# Models
-MODEL_CLASSIFICATION_JOBLIB = '../models/model_classification.joblib'
-MODEL_CLASSIFICATION_PKL = '../models/model_classification.pkl'
-
 # Reports
 EDA_0 = '../reports/eda_0.html'
 EDA_1 = '../reports/eda_1.html'

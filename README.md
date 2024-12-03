@@ -6,24 +6,8 @@
 **Modelo de séries temporais** para previsão do preço de ações em uma casa de análises do mercado financeiro.
 
 
-## Objetivo
-O objetivo do projeto é, a partir dos dados de campanhas piloto, construir um **modelo de clusterização** para segmentação de clientes em campanhas de marketing em uma plataforma de delivery. <br>
-
-A intenção é que o modelo preveja o comportamento dos consumidores e torne possível aplicá-lo a toda a base de clientes, permitindo que a empresa identifique os clientes que têm maior probabilidade de aceitar a campanha, otimizando assim os resultados das campanhas e tornando-as altamente lucrativas. <br>
-
-E em seguida, construir um **modelo de classificação** de acordo com os resultados obtidos no modelo inicial para prever se os clientes devem ou não aceitar as futuras campanhas da empresa.
-
-
 ## Descrição
-Nesse projeto de Ciência de Dados, resumidamente, foi realizada uma ampla análise exploratória gerando os principais insights do projeto e permitindo identificar duas principais personas para os clientes de uma plataforma de delivery. 
-
-Em seguida, foi criado um modelo de clusterização usando K-Means para identificar melhor as personas dos clientes e permitindo assim a empresa direcionar melhor a campanha de marketing para os clientes que tem a maior probabilidade de aceitá-la. 
-
-Por fim, foi criado um modelo de classificação usando Regressão Logística para prever se os clientes devem ou não aceitar as futuras campanhas de marketing da empresa.                                                                                                 |
-
-
-## Referências
-- **Repositório do desafio:** https://github.com/ifood/ifood-data-business-analyst-test
+O objetivo desse projeto de Ciência de Dados é, a partir dos dados históricos de ações nacionais e internacionais, construir um **modelo de séries temporais** capaz de prever a tendência de alta ou baixa de uma ação para um determinado período de tempo no futuro, para assim poder suportar as recomendações dos analistas de mercado em uma casa de análises do mercado financeiro. Para isso foi realizada uma ampla análise exploratória gerando os principais insights do projeto e permitindo realizar a previsão das tendências das ações. Em seguida, foi criado um modelo para gerar as previsões das ações, permitindo assim embasar as recomendações dos analistas de mercado, aumentando consideravelmente o valor entregue pela empresa aos seus clientes. Isso se reflete em rentabilidades dos ativos que compoem a carteira superiores a média de mercado e a redução considerável na chance dos clientes se frustarem com alguma eventual recomendação que não atingiu o valor esperado.
 
 
 ## Bibliotecas
@@ -63,15 +47,3 @@ Por fim, foi criado um modelo de classificação usando Regressão Logística pa
 ![EDA_04](images/output_resultados_eda_04.png)
 
 ![EDA_05](images/output_resultados_eda_05.png)
-
-## Resultados - Clusterização
-![Models_03](images/output_resultados_models_03.png)
-
-![Models_04](images/output_resultados_models_04.png)
-
-## Resultados - Classificação
-![Models_05](images/output_resultados_models_05.png)
-
-![Models_06](images/output_resultados_models_06.png)
-
-![Models_07](images/output_resultados_models_07.png)
